@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 8, 2020, 6:37:23 PM
+    Author     : Jessie
+*/
+
+#scoreLabel{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14pt;
+    color: #000099;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 25px;
+}
+#pageTitle{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+    color: #000099;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    height: 25px;
+}
+#gameArea{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    border: 1px #000099 solid;
+}
+#dot{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    background-color: #000099;
+    width: 64px;
+    height: 64px;
+}
+#startStop {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background-color: #000099;
+    color: white;
+    font-size: 18pt;
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+}
